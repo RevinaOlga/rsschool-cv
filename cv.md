@@ -2,7 +2,7 @@
 ## Olga Revina
 
 ### Contacts
-Phone: +37525 761 78 85
+Phone: +37525-761-78-85
 E-mail: revina.volga@gmail.com
 
 ### Summery
