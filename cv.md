@@ -13,7 +13,7 @@ E-mail: revina.volga@gmail.com
  - I enjoy researching emerging technologies and willing to explore new languages
  
 ### Skills
- - Java
+ - Java / Kotlin
  - XML
  - Git / Github
  
