@@ -34,4 +34,4 @@ Yanka Kupala State University of Grodno Faculty of Mathematics and Informatics
 The course of IT Academy Website Development using HTML, CSS, JavaScript
 
 ### English level
- I have some knowledge and can perform simple tasks such a basic translation. Basic knowledge was acquired in high school and university. I improve my English by watching videos and reading all the specialized documentation in English.
+ I have some knowledge and can perform simple tasks such a basic translation. Basic knowledge was acquired in high school and university.
